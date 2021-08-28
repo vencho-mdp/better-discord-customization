@@ -1,8 +1,7 @@
-﻿# better discord customization
-_my own customization for BetterDiscord_
+﻿# better discord personalización
 
-## how to use it?
+## como usarlo?
 
-1. download the `vencho_theme.css` file in this repo.
-2. swap it to your `themes` folder 
-3. enable it
+1. descargar el archivo `vencho_theme.css` en este repositorio.
+2. moverlo a la carpeta `themes`. 
+3. habilitarlo.
